@@ -2,16 +2,16 @@
   padding: 0;
   margin: 0;
   list-style: none;
-  font-family: 'Halloween Nightmare Demo', 'KaiseiHarunoUmi-Bold';
-}
-body {
-  background: #612d7f;
 }
 @font-face {
   font-family: 'Halloween Nightmare Demo';
   src: url('font/Halloween Nightmare Demo (daFONT).ttfs');
   font-family: 'KaiseiHarunoUmi-Bold';
   src: url('font/KaiseiHarunoUmi-Bold.ttf');
+}
+body {
+  background: #612d7f;
+  font-family: 'Halloween Nightmare Demo', 'KaiseiHarunoUmi-Bold';
 }
 
 /* ＝＝＝＝＝＝＝＝＝＝1ページ目のイラスト設定＝＝＝＝＝＝＝＝＝ */
