@@ -8,9 +8,9 @@ body {
   background: #612d7f;
 }
 @font-face {
-  font-family: "font/Halloween Nightmare Demo";
+  font-family: "Halloween Nightmare Demo";
   src: url("font/Halloween Nightmare Demo (daFONT).ttfs") format("ttfs");
-  font-family: "font/KaiseiHarunoUmi-Bold";
+  font-family: "KaiseiHarunoUmi-Bold";
   src: url("font/KaiseiHarunoUmi-Bold.ttf") format("ttf");
 }
 
